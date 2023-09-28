@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs
+3,Pixel 2 XL,1695713036543,2023-09-26_07-23-56,Europe/Amsterdam,android,1.21.0,a2bbf078-13df-44cd-9e48-520e5615e33f,Accelerometer|Gravity|Gyroscope|Annotation|TotalAcceleration|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10||10|10|10
