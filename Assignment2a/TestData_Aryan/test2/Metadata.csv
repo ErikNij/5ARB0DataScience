@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs
+3,SM-N986B,1696495973011,2023-10-05_08-52-53,Europe/Amsterdam,android,1.21.0,ddb36ae0-5696-4fd3-90df-2d175eed9d2a,Accelerometer|Gravity|Gyroscope|Orientation|Annotation|TotalAcceleration|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10|10||10|10|10
